@@ -1,0 +1,10 @@
+body {
+	font-family: Tahoma,Arial,Verdana;
+	font-size: 12px;
+	color: black;
+}
+
+a:link {color: #000000;}
+a:visited {color:#000000;}
+a:hover {color: #000000;}
+a:active {color: #000000;}
